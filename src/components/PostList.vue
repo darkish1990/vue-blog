@@ -7,8 +7,6 @@
 </template>
 
 <script>
-import { onMounted, onUnmounted, onUpdated } from 'vue'
-
 // component imports
 import SinglePost from './SinglePost.vue'
 
